@@ -1,0 +1,9 @@
+.container1 {
+    width: 100%;
+    overflow: auto;
+}
+
+.container2 {
+    width: 33%;
+    display: inline-block;
+}
