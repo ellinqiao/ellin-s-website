@@ -7,3 +7,8 @@
     width: 25%;
     display: inline-block;
 }
+
+.button {
+    text-align: center;
+    padding: 15px;
+}
