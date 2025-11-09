@@ -12,4 +12,6 @@
 .button {
     text-align: center;
     padding: 15px;
+    width: 75%;
+    height: 15%;
 }
