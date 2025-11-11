@@ -7,13 +7,17 @@
 .container2 {
     width: 25%;
     display: inline-block;
+}
+
+.buttonContainer {
     display: flex;
+    width: 25%;
 }
 
 .button {
     text-align: center;
-    width: 100px;
-    height: 30px;
+    width: 200px;
+    height: 20px;
     flex-direction: column;
     margin: 10px;
 }
