@@ -1,5 +1,5 @@
 .container1 {
-    width: 75%;
+    width: 100%;
     overflow: clip;
     margin: auto;
     display: inline-block;
@@ -28,7 +28,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url('/outfit sim/blueTank.png') no-repeat;
+    background: url('/outfit sim/blueTank.png');
 }
 
 .buttonContainer {
