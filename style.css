@@ -17,7 +17,7 @@
 
 .containerWardrobe {
     position: relative;
-    width: 25%;
+    width: 50%;
     margin-left: 20%;
 }
 
@@ -34,7 +34,7 @@
     background-image: url('/outfit sim/blueTank.png');
     background-size: 200%;
     background-position: center;
-    opacity: 0;
+    border-radius: 100%;
     border: none;
     padding: 16px 30px;
     text-align: center;
