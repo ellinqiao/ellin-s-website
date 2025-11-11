@@ -10,6 +10,24 @@
 
 .container2 {
     width: 25%;
+    flex-direction:row;
+}
+
+.containerWardrobe {
+    width: 25%;
+    flex-direction: row;
+}
+
+.containerWardrobe img {
+    width: 100%;
+    height: auto;
+}
+
+.containerWardrobe .button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .buttonContainer {
@@ -18,7 +36,7 @@
     width: 25%;
 }
 
-.button {
+.buttonContainer .button {
     text-align: center;
     width: 200px;
     height: 20px;
