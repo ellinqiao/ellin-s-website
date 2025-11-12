@@ -27,13 +27,14 @@
     left: 30%;
     transform: translate(-50%, -50%);
     background-image: url('/outfit sim/blueTank.png');
-    background-size: 75%;
+    background-size: 100%;
     background-position: center;
     border: none;
     padding: 16px 30px;
     text-align: center;
     background-color: transparent;
-    height: 100px;
+    height: 80px;
+    width: auto;
 }
 
 .buttonContainer {
