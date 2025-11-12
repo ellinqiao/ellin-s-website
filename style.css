@@ -26,8 +26,8 @@
     height: 100%; 
     overflow: scroll;
     position: absolute;
-    top: 15%;
-    left: 15%;
+    top: 40%;
+    left: 40%;
     display: flex;
     /* transform: translate(-5%, -5%); */
     flex-wrap: wrap;
@@ -43,7 +43,8 @@
     background-color: transparent;
     height: 100px;
     width: 80px;
-    margin: 30px;
+    margin-left: 50px;
+    margin-top: 40px;
 }
 
 .buttonContainer {
