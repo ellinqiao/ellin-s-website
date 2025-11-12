@@ -3,6 +3,7 @@
     display: inline-flex;
     flex-direction:row;
     justify-content: center;
+    margin: auto;
 }
 
 .containerBase {
@@ -28,16 +29,17 @@
     background-image: url('/outfit sim/blueTank.png');
     background-size: 200%;
     background-position: center;
-    border-radius: 100%;
     border: none;
     padding: 16px 30px;
     text-align: center;
+    background-color: transparent;
 }
 
 .buttonContainer {
     display: flex;
     width: 25%;
     flex-direction: column;
+    justify-content: center;
 }
 
 .buttonContainer .button {
