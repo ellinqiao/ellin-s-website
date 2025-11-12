@@ -32,7 +32,8 @@
     /* transform: translate(-5%, -5%); */
     flex-wrap: wrap;
     scrollbar-width: thin;
-    scrollbar-color: #502f25;
+    --scrollbar-color-thumb: #502f25;
+    --scrollbar-color-track: #8f5b44;
 }
 
 .containerWardrobe .button {
@@ -47,6 +48,7 @@
     height: 95px;
     width: 80px;
     margin-left: 50px;
+    margin-bottom: 20px;
 }
 
 .buttonContainer {
