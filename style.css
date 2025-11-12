@@ -23,7 +23,7 @@
 
 .wardrobeButtons {
     width: 75%;
-    height: 75%; 
+    height: 60%; 
     overflow: scroll;
     position: absolute;
     top: 30%;
@@ -38,7 +38,8 @@
     background-size: 120%;
     background-position: center;
     border: none;
-    padding: 16px 30px;
+    padding-left: 16px;
+    padding-right: 16px;
     text-align: center;
     background-color: transparent;
     height: 100px;
