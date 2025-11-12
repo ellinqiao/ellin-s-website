@@ -26,8 +26,8 @@
     height: 100%;
     overflow: scroll;
     position: absolute;
-    top: 40%;
-    left: 50%;
+    top: 5%;
+    left: 5%;
     transform: translate(-50%, -50%);
 }
 
