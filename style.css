@@ -17,17 +17,17 @@
 }
 
 .containerWardrobe img {
-    width: 100%;
+    width: 150%;
     height: auto;
 }
 
 .containerWardrobe .button {
     position: absolute;
-    top: 20%;
-    left: 20%;
+    top: 30%;
+    left: 30%;
     transform: translate(-50%, -50%);
     background-image: url('/outfit sim/blueTank.png');
-    background-size: 100%;
+    background-size: 75%;
     background-position: center;
     border: none;
     padding: 16px 30px;
