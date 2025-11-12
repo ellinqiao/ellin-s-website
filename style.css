@@ -31,9 +31,6 @@
     display: flex;
     /* transform: translate(-5%, -5%); */
     flex-wrap: wrap;
-}
-
-.scroller {
     scrollbar-width: thin;
     scrollbar-color: #502f25;
 }
@@ -47,7 +44,7 @@
     padding-right: 16px;
     text-align: center;
     background-color: transparent;
-    height: 100px;
+    height: 95px;
     width: 80px;
     margin-left: 50px;
 }
