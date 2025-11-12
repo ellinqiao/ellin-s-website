@@ -32,12 +32,12 @@
     /* transform: translate(-5%, -5%); */
     flex-wrap: wrap;
     scrollbar-width: thin;
-    --scrollbar-color-thumb: #502f25;
-    --scrollbar-color-track: #8f5b44;
+    scrollbar-color: #502f25;
 }
 
+
+
 .containerWardrobe .button {
-    background-image: url('/outfit sim/checkerTank.png');
     background-size: 120%;
     background-position: center;
     border: none;
@@ -49,6 +49,54 @@
     width: 80px;
     margin-left: 50px;
     margin-bottom: 20px;
+}
+
+#blueTank {
+    background-image: url('/outfit sim/blueTank.png');
+}
+
+#blueSweater {
+    background-image: url('/outfit sim/blueSweater.png');
+}
+
+#blueTank2 {
+    background-image: url('/outfit sim/blueTank2.png');
+}
+
+#brownSweater {
+    background-image: url('/outfit sim/brownSweater.png');
+}
+
+#checkerTank {
+    background-image: url('/outfit sim/checkerTank.png');
+}
+
+#floralTank {
+    background-image: url('/outfit sim/floralTank.png');
+}
+
+#greenSweater {
+    background-image: url('/outfit sim/greenSweater.png');
+}
+
+#greenTank {
+    background-image: url('/outfit sim/greenTank.png');
+}
+
+#laceShirt {
+    background-image: url('/outfit sim/laceShirt.png');
+}
+
+#pinkShirt {
+    background-image: url('/outfit sim/pinkShirt.png');
+}
+
+#whiteSweater {
+    background-image: url('/outfit sim/whiteSweater.png');
+}
+
+#xmasSweater {
+    background-image: url('/outfit sim/xmasSweater.png');
 }
 
 .buttonContainer {
