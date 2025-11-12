@@ -24,13 +24,18 @@
 .wardrobeButtons {
     width: 75%;
     height: 60%; 
-    overflow: scroll;
+    overflow-y: scroll;
     position: absolute;
     top: 30%;
     left: 23%;
     display: flex;
     /* transform: translate(-5%, -5%); */
     flex-wrap: wrap;
+}
+
+.scroller {
+    scrollbar-width: thin;
+    scrollbar-color: #502f25;
 }
 
 .containerWardrobe .button {
