@@ -21,11 +21,17 @@
     height: auto;
 }
 
-.containerWardrobe .button {
+.wardrobeButtons {
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
     position: absolute;
     top: 40%;
-    left: 40%;
+    left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.containerWardrobe .button {
     background-image: url('/outfit sim/checkerTank.png');
     background-size: 130%;
     background-position: center;
