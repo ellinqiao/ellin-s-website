@@ -27,9 +27,10 @@
     overflow: scroll;
     position: absolute;
     top: 40%;
-    left: 50%;
+    left: 40%;
     display: flex;
     transform: translate(-5%, -5%);
+    flex-direction: column;
 }
 
 .containerWardrobe .button {
